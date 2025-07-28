@@ -2,7 +2,7 @@
 <h3 align="center"><i>@Trimocerion</i></h3>
 
 <div align="center">
-  <a href="mailto:Trimocerion@gmail.com"><img src="https://img.shields.io/badge/Email-Trimocerion@gmail.com-blue?style=flat-square&logo=gmail"></a> <br/>
+  <a href="mailto:b-dabrowski@outlook.com"><img src="https://img.shields.io/badge/Email-b-dabrowski@outlook.com-blue?style=flat-square&logo=gmail"></a> <br/>
    <a href="https://www.linkedin.com/in/bartoszdabrowski777/"><img src="https://img.shields.io/badge/LinkedIn-Bartosz%20Dąbrowski-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" /></a> <br/>
   <img src="https://komarev.com/ghpvc/?username=trimocerion&color=blueviolet&style=flat-square" alt="Profile Views" /> <br/>
   </div>
@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-Younr IT passionate with initial experience in IT field and a passion for development and automation.  
+Young IT passionate with initial experience in IT field and a passion for development and automation.  
 Currently improving my skills in Java, testing, monitoring, cloud technologies and RPA development.  
 </p>
 
