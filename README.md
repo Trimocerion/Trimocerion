@@ -12,15 +12,17 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-Adaptable and analytical software development enthusiast with hands-on experience in IT support, automation, and entry-level DevOps with a focus on monitoring and operations.  
-Skilled in building automation solutions with UiPath, and continuously improving my knowledge of Java, testing frameworks, and databases.  
-Currently expanding my skills in Python, DevOps tools, and self-hosted services, while pursuing a Master’s degree in Computer Science (Cloud Computing specialization).  
+Cloud Computing Master’s student and IT Operations Engineer with over 2 years of experience in high-stakes environments. Certified UiPath Automation Developer Professional and Agentic Associate, specializing in end-to-end process automation and infrastructure reliability.
 </p>
 
-- 🚀 Open to new challenges, collaborations, and innovative projects  
-- 🧠 Interested in **QA, DevOps, RPA, and backend development**  
-- 🎓 Continuously learning and experimenting with cloud technologies and automation frameworks  
-- 🔧 Passionate about **problem solving**, self-improvement, and exploring tech innovations  
+<p>
+  My expertise bridges the gap between traditional IT Operations and modern DevOps practices. I have a proven track record in monitoring critical banking systems, performing log analysis, and automating repetitive tasks using Python and PowerShell. Currently, I am focused on scaling infrastructure through CI/CD, managing Proxmox-based home-lab environments
+</p>
+
+
+- 🚀 Core Focus: DevOps/SRE, Cloud Infrastructure, and Advanced RPA.  
+- 🧠 Tech Stack: AWS, Azure, Docker, Java, Python, SQL, and UiPath.  
+- 🎓 Education: M.Sc. in Computer Science (Specialization: Cloud Computing).  
 
 ---
 
@@ -46,4 +48,4 @@ Currently expanding my skills in Python, DevOps tools, and self-hosted services,
 
 ## 📂 Projects
 
-> 🔧 I'm currently working on exciting projects involving **automation, testing, and cloud technologies** — stay tuned!  
+> 🔧 I'm currently working on exciting projects involving **automation and cloud technologies** — stay tuned!  
