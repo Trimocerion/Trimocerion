@@ -46,4 +46,4 @@ M.Sc. in Computer Science (Cloud Computing) graduate and Junior System Administr
 
 ## 📂 Projects / Home-lab
 
-> 🔧 Currently expanding my **Proxmox VE home-lab** with automated deployments using Kubernetes and Ansible, alongside self-hosted services like n8n, AdGuard, and Jellyfin. Exploring Infrastructure as Code (IaC) and Entra ID automation!
+> 🔧 Currently expanding my **Proxmox VE home-lab** with automated deployments using Kubernetes and Ansible, alongside self-hosted services like n8n, AdGuard, and Jellyfin.
